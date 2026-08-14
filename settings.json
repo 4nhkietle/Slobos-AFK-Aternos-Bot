@@ -8,7 +8,7 @@
   "server": {
     "ip": "minnow.aternos.host:57528",
     "port": 57528,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
