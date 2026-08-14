@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "N111gaa.aternos.me",
+    "ip": "minnow.aternos.host:57528",
     "port": 57528,
     "version": "26.2",
     "try-creative": false
